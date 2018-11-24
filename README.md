@@ -1,1 +1,1 @@
-# Recurrent-Neural-Networks---Pytorch
+# Recurrent-Neural-Networks-Pytorch
